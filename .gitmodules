@@ -1,0 +1,6 @@
+[submodule "external/quirc"]
+	path = external/quirc
+	url = https://github.com/dlbeer/quirc/
+[submodule "bonero"]
+	path = bonero
+	url = https://github.com/bonero-project/bonero

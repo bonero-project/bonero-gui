@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Bonero GUI
+GenericName=Bonero-GUI
+Comment=Bonero GUI
+Exec=bonero-wallet-gui
+Type=Application
+Terminal=false
+Categories=Network;Qt;Finance;Office;
+Icon=org.getbonero.Bonero
+StartupNotify=true

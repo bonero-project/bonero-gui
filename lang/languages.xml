@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<languages>
+
+<!--
+Note that wallet_language is not the wallet language but the mnemonic seed language!
+List of languages for which a mnemonic seed word list is available:
+English
+Nederlands	(Dutch)
+Français	(French)
+Español		(Spanish)
+Português	(Portuguese)
+日本語          (Japanese)
+Italiano	(Italian)
+Deutsch		(German)
+русский язык	(Russian)
+简体中文 (中国)  (Chinese (Simplified)
+Esperanto
+Lojban
+-->
+	<language display_name="English (US)" locale="en_US" wallet_language="English" flag="/lang/flags/us.png" qs="none"/>
+</languages>
